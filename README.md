@@ -102,11 +102,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 👤 Author
+## 👤 Lavanya Badyal
 
 **Lavanya Badyal**
 
-- GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: [@lavanyabadyal-blip](https://github.com/lavanyabadyal-blip)
 
 ## 🙏 Acknowledgments
 
@@ -116,7 +116,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-For any queries, please reach out at: your.email@example.com
+For any queries, please reach out at: lavanyabadyal@gmail.com
 
 ---
 
