@@ -2,7 +2,7 @@
 
 An Android application designed to highlight streets on a virtual map as you travel, making navigation easier in India.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## 📱 Features
 
@@ -63,7 +63,7 @@ An Android application designed to highlight streets on a virtual map as you tra
 
 ## 📸 Screenshots
 
-(Add screenshots of your app here)
+(Screenshot.png)
 
 ## 🚀 How to Use
 
