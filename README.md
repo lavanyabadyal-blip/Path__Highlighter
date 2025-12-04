@@ -49,9 +49,7 @@ An Android application designed to highlight streets on a virtual map as you tra
 4. Create credentials → API Key
 5. Add the key to `AndroidManifest.xml`:
 ```xml
-<meta-data
-    android:name="com.google.android.geo.API_KEY"
-    android:value="AIzaSyBQHwbxdlEWztCdMRsmlzgTY_7KpMd-JlQ" />
+
 ```
 
 ### Build Steps
