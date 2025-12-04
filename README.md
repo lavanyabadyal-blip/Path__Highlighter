@@ -51,7 +51,7 @@ An Android application designed to highlight streets on a virtual map as you tra
 ```xml
 <meta-data
     android:name="com.google.android.geo.API_KEY"
-    android:value="YOUR_API_KEY_HERE" />
+    android:value="AIzaSyBQHwbxdlEWztCdMRsmlzgTY_7KpMd-JlQ" />
 ```
 
 ### Build Steps
