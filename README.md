@@ -123,51 +123,7 @@ For any queries, please reach out at: lavanyabadyal@gmail.com
 ⭐ Star this repo if you find it helpful!
 ```
 
-5. Scroll down
-6. Click **"Commit changes"**
-7. Click **"Commit changes"** again in the popup
 
----
-
-## **STEP 6: ADD SCREENSHOTS (OPTIONAL)**
-
-### Action 1: Take Screenshots
-1. Run your app on phone or emulator
-2. Take screenshots (press Volume Down + Power on phone)
-3. Save screenshots to computer
-
-### Action 2: Upload Screenshots
-1. On GitHub repository page
-2. Click **"Add file"** → **"Upload files"**
-3. Drag your screenshot images
-4. Type commit message: `Add app screenshots`
-5. Click **"Commit changes"**
-
-### Action 3: Update README with Images
-1. Click on `README.md`
-2. Click pencil icon to edit
-3. Find the line: `![App Screenshot](screenshot.png)`
-4. Replace `screenshot.png` with your actual image filename
-5. Commit changes
-
----
-
-## **STEP 7: CREATE A RELEASE (FOR APK DOWNLOAD)**
-
-### Action 1: Build APK First
-1. In Android Studio, click **Build** menu
-2. Click **Build Bundle(s) / APK(s)** → **Build APK(s)**
-3. Wait for build to complete
-4. Click **"locate"** in notification
-5. Copy `app-debug.apk` file to Desktop
-
-### Action 2: Create Release on GitHub
-1. On your GitHub repository page
-2. On the right side, click **"Releases"**
-3. Click **"Create a new release"**
-4. **Choose a tag:** Type `v1.0` and press Enter (creates new tag)
-5. **Release title:** Type `Path Highlighter v1.0 - Initial Release`
-6. **Description:** Type:
 ```
 Initial release of Path Highlighter Android app
 
@@ -180,64 +136,15 @@ Features:
 Installation:
 Download the APK file below and install on your Android device.
 ```
-7. **Attach files:** Drag your `app-debug.apk` file here
-8. Click **"Publish release"**
 
-Now anyone can download your APK! ✅
 
----
 
-## **STEP 8: SHARE YOUR PROJECT**
-
-Your GitHub repository URL is:
 ```
 https://github.com/YourUsername/Path-Highlighter
 ```
 
-Share this link to:
-- Show your project to others
-- Let people download the APK
-- Allow developers to see your code
-- Add to your resume/portfolio
 
----
 
-## **UPDATING YOUR PROJECT LATER**
 
-When you make changes to your code:
-
-### Simple Update Method:
-1. Go to your repository on GitHub
-2. Navigate to the file you want to update
-3. Click the **pencil icon** (Edit)
-4. Make your changes
-5. Click **"Commit changes"**
-
-### Upload New Files:
-1. Click **"Add file"** → **"Upload files"**
-2. Drag updated files
-3. Commit changes
-
----
-
-## **COMPLETE CHECKLIST**
-
-- [ ] GitHub account created
-- [ ] Repository created with name "Path-Highlighter"
-- [ ] Android gitignore added
-- [ ] README file added
-- [ ] App folder uploaded
-- [ ] Gradle folder uploaded
-- [ ] Build files uploaded
-- [ ] README edited with project details
-- [ ] Screenshots uploaded (optional)
-- [ ] Release created with APK (optional)
-- [ ] Repository shared
-
----
-
-## **YOUR PROJECT IS NOW ON GITHUB!** ✅
-
-**Repository URL:**
 ```
 https://github.com/lavanyabadyal-blip/Path___Highlighter
