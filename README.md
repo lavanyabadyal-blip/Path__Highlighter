@@ -133,15 +133,7 @@ Features:
 - Distance calculation
 - Start/Stop/Clear controls
 
-Installation:
-Download the APK file below and install on your Android device.
-```
 
-
-
-```
-https://github.com/YourUsername/Path-Highlighter
-```
 
 
 
