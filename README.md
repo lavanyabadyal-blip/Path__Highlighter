@@ -48,9 +48,7 @@ An Android application designed to highlight streets on a virtual map as you tra
 3. Enable "Maps SDK for Android"
 4. Create credentials → API Key
 5. Add the key to `AndroidManifest.xml`:
-```xml
 
-```
 
 ### Build Steps
 1. Clone the repository
