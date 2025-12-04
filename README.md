@@ -120,11 +120,8 @@ For any queries, please reach out at: lavanyabadyal@gmail.com
 
 ---
 
-⭐ Star this repo if you find it helpful!
-```
 
 
-```
 Initial release of Path Highlighter Android app
 
 Features:
