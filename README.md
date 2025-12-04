@@ -240,4 +240,4 @@ When you make changes to your code:
 
 **Repository URL:**
 ```
-https://github.com/lavanyabadyal-blip/Path-Highlighter
+https://github.com/lavanyabadyal-blip/Path___Highlighter
